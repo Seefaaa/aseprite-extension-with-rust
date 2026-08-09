@@ -1,3 +1,4 @@
 [submodule "lua-src"]
 	path = lua-src
 	url = https://github.com/aseprite/lua
+	branch = aseprite
