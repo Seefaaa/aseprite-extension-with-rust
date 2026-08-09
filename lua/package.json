@@ -1,0 +1,19 @@
+{
+	"name": "test-extension",
+	"displayName": "test-extension",
+	"description": "",
+	"version": "0.1.0",
+	"author": {
+		"name": "Seefaaa",
+		"url": "https://github.com/Seefaaa"
+	},
+	"contributors": [],
+	"publisher": "Seefaaa",
+	"license": "GPL-3.0",
+	"categories": [ "Scripts" ],
+	"contributes": {
+		"scripts": [
+			{ "path": "./main.lua" }
+		]
+	}
+}
